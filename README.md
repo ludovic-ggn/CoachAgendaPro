@@ -79,6 +79,7 @@ dans le fichier config.php
 For security reasons CoachAgendaPro automatically generates and sends the password of future 
 members, it is therefore imperative to have a mail server supporting the PHPMail function (ex: 
 Postfix)  
+  
 Pour des raisons de sécurité CoachAgendaPro génère et envoie de façon automatique le mot de 
 passe des futurs membres, il est donc impératif d’avoir un serveur mail prenant en charge la fonction 
 PHPMail (ex : Postfix)  
