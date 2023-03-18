@@ -109,3 +109,9 @@ Créez un compte
 Une fois sur le tableau de bord, allez dans l’onglet «My Account » puis « My Keys»  
 Cliquez sur «Create new key»  
 Complétez le formulaire comme ci-dessus
+  
+Once the key has been obtained, paste it in the files /admin/ajouterstade.php and
+/admin/editstade.php  
+  
+Une fois la clé obtenue collez la dans les fichiers /admin/ajouterstade.php et /admin/editstade.php  
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/api%20rectangle.png) 
