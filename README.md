@@ -18,3 +18,11 @@
 ## Features
 Here are the features of CoachAgendaPro
 ### Match management
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/matchs%20passe.PNG)
+A simple display on the next upcoming matches  
+But also past matches with the score as well as the possibility of importing a match sheet and making 
+it accessible to team members  
+  
+Un affichage simple sur les prochains matchs à venir  
+Mais aussi les matchs passé avec le score ainsi que la possibilité d’importer une feuille de match et la 
+rendre accessible aux membres de l’équipe  
