@@ -101,7 +101,7 @@ Create an account
 Once on the dashboard, go to the “My Account” tab then “My keys”   
 Click on «Create new key» 
 Complete the form as follows:  
-![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/cle.PNG)
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/cle.PNG)  
 Pour pouvoir l’utiliser vous allez devoir obtenir une clé API  
 Cette procédure est détaillée dans les étapes suivantes :  
 Allez sur le site : https://www.bingmapsportal.com/  
