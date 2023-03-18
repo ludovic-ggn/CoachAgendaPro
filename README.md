@@ -123,3 +123,16 @@ CoachAgendaPro est enfin prêt pour l’installation !
 Rendez-vous sur http://votreip/install/ et suivez les étapes d’installation  
 A la fin de la procédure d’installation pensez à supprimer le dossier /install/  
 ## Contact me
+If you encounter a problem or if you need assistance, you can contact me by email at the following 
+address : contact@ludoggn.simplelogin.com  
+  
+Si vous rencontrez un problème ou si vous avez besoin d’assistance vous pouvez me contactez par 
+mail à l’adresse suivante : contact@ludoggn.simplelogin.com  
+## Licenses
+This software is provided under the international license CC BY-NC-ND 2.0 FR  
+This software is provided AS IS without ANY warranty.  
+Please note that this software uses the following software for its graphical interface : Free Bootstrap 5 HTML Admin Template  
+  
+Ce logiciel est fourni sous la licence international CC BY-NC-ND 2.0 FR  
+Ce logiciel est fournis tels quel sans AUCUNE garantie  
+Attention ce logiciel utilise pour son interface graphique le logiciel suivant : Free Bootstrap 5 HTML Admin Template 
