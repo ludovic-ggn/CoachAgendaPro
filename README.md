@@ -115,3 +115,11 @@ Once the key has been obtained, paste it in the files /admin/ajouterstade.php an
   
 Une fois la clé obtenue collez la dans les fichiers /admin/ajouterstade.php et /admin/editstade.php  
 ![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/api%20rectangle.png) 
+CoachAgendaPro is finally ready for installation!  
+Go to http://votreip/install/ and follow the installation steps  
+At the end of the installation procedure remember to delete the folder /install/  
+  
+CoachAgendaPro est enfin prêt pour l’installation !  
+Rendez-vous sur http://votreip/install/ et suivez les étapes d’installation  
+A la fin de la procédure d’installation pensez à supprimer le dossier /install/  
+## Contact me
