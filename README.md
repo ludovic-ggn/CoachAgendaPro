@@ -83,3 +83,14 @@ Postfix)
 Pour des raisons de sécurité CoachAgendaPro génère et envoie de façon automatique le mot de 
 passe des futurs membres, il est donc impératif d’avoir un serveur mail prenant en charge la fonction 
 PHPMail (ex : Postfix)  
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/mail.png)
+To enable GPS navigation to stadiums CoachAgendaPro needs to know the exact GPS coordinates of 
+the stadium.  
+For this CoachAgendaPro uses Microsoft’s Bing Maps API  
+This API has the advantage of being free under a certain large number of requests per day  
+  
+Pour permettre la navigation GPS vers les stades CoachAgendaPro a besoin de connaitre les 
+coordonnées GPS exactes du stade.  
+Pour cela CoachAgendaPro utilise l’API Bing Maps de Microsoft  
+Cette API présente l’avantage d’être gratuite sous un certain nombre important de requête par jour  
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/gps.png)
