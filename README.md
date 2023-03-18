@@ -50,3 +50,13 @@ thanks to Google Maps GPS guidance
   
 CoachAgendaPro vous permet de gérer facilement vos stades, et permet à vos membres de s’y 
 rendre grâce au guidage GPS Google Maps  
+### Communication with club members
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/notif.PNG)
+You can easily alert or pass on information  
+CoachAgendaPro sends a notification to the member area  
+7 notification colors are available depending on the importance of the notification  
+  
+Vous pouvez facilement alerter ou faire passer une information  
+CoachAgendaPro envoie une notification sur l’espace membre  
+7 couleurs de notifications sont disponibles selon l’importance de celle-ci  
+
