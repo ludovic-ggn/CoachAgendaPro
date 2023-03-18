@@ -47,5 +47,6 @@ Modification des équipes mêmes en pleine saison
 ![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/stades.PNG)
 CoachAgendaPro allows you to easily manage your stadiums, and allows your members to get there 
 thanks to Google Maps GPS guidance  
+  
 CoachAgendaPro vous permet de gérer facilement vos stades, et permet à vos membres de s’y 
 rendre grâce au guidage GPS Google Maps  
