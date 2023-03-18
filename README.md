@@ -33,3 +33,13 @@ The training times are reminded on the members’ area
   
 Plus de doute possible sur l’heure ou le lieu d’entrainements  
 Les horaires d’entrainements sont rappelés sur l’espace membres  
+### Team/member management
+Managing your members and teams has never been easier  
+In a few clicks you can add a member to a team  
+Easily move members to another team  
+Modification of the teams even in the middle of the season  
+  
+Gérer vos membres et vos équipes n’a jamais été aussi simple  
+En quelques clics vous pouvez ajouter un membre à une équipe  
+Déplacement facile de membres vers une autre équipe  
+Modification des équipes mêmes en pleine saison  
