@@ -59,4 +59,13 @@ CoachAgendaPro sends a notification to the member area
 Vous pouvez facilement alerter ou faire passer une information  
 CoachAgendaPro envoie une notification sur l’espace membre  
 7 couleurs de notifications sont disponibles selon l’importance de celle-ci  
+### Sharing space
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/echanges.PNG)
+A space for exchanges is present on the members’ area, it allows the whole club to exchange the 
+highlights of a match  
+This space can be moderated in the event of a problem from the coach space  
+  
+Un espace d’échanges est présent sur l’espace membres et l’espace coach, il permet à tout le club 
+d’échanger les moments forts d’un match  
+Cet espace peut être modéré en cas de débordement depuis l’espace coach  
 
