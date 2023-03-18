@@ -26,3 +26,10 @@ it accessible to team members
 Un affichage simple sur les prochains matchs à venir  
 Mais aussi les matchs passé avec le score ainsi que la possibilité d’importer une feuille de match et la 
 rendre accessible aux membres de l’équipe  
+### Training management
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/entrainements.PNG)
+No doubt about the time or place of training  
+The training times are reminded on the members’ area  
+  
+Plus de doute possible sur l’heure ou le lieu d’entrainements  
+Les horaires d’entrainements sont rappelés sur l’espace membres  
