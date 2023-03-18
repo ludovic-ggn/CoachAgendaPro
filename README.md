@@ -94,3 +94,11 @@ coordonnées GPS exactes du stade.
 Pour cela CoachAgendaPro utilise l’API Bing Maps de Microsoft  
 Cette API présente l’avantage d’être gratuite sous un certain nombre important de requête par jour  
 ![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/gps.png)
+To be able to use it you will have to obtain an API key  
+This procedure is detailed in the following steps:  
+Go to the website: https://www.bingmapsportal.com/  
+Create an account  
+Once on the dashboard, go to the “My Account” tab then “My keys”   
+Click on «Create new key» 
+Complete the form as follows:  
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/cle.PNG)
