@@ -68,4 +68,17 @@ This space can be moderated in the event of a problem from the coach space
 Un espace d’échanges est présent sur l’espace membres et l’espace coach, il permet à tout le club 
 d’échanger les moments forts d’un match  
 Cet espace peut être modéré en cas de débordement depuis l’espace coach  
-
+## Installation
+This section explains how to correctly install CoachAgendaPro on your web server  
+To begin, it is necessary to complete the database connection information in the config.php file.  
+  
+Cette section vous explique comment installer correctement CoachAgendaPro sur votre serveur web.  
+Pour commencer il est nécessaire de compléter les informations de connexions à la base de données
+dans le fichier config.php  
+![](https://raw.githubusercontent.com/ludovic-ggn/CoachAgendaPro/main/Project%20Picture/Config.png)
+For security reasons CoachAgendaPro automatically generates and sends the password of future 
+members, it is therefore imperative to have a mail server supporting the PHPMail function (ex: 
+Postfix)  
+Pour des raisons de sécurité CoachAgendaPro génère et envoie de façon automatique le mot de 
+passe des futurs membres, il est donc impératif d’avoir un serveur mail prenant en charge la fonction 
+PHPMail (ex : Postfix)  
